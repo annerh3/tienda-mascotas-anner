@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\bin\Debug\net8.0\TiendaDeMascotas.exe
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\bin\Debug\net8.0\TiendaDeMascotas.deps.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\bin\Debug\net8.0\TiendaDeMascotas.runtimeconfig.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\bin\Debug\net8.0\TiendaDeMascotas.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\bin\Debug\net8.0\TiendaDeMascotas.pdb
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\refint\TiendaDeMascotas.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.pdb
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\ref\TiendaDeMascotas.dll
