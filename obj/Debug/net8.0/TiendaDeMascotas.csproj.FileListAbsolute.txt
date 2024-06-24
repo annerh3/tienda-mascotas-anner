@@ -12,3 +12,4 @@ C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaD
 C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.pdb
 C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\ref\TiendaDeMascotas.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\Tareas\Unidad I\Actividad Foro\TiendaDeMascotas\obj\Debug\net8.0\TiendaDeMascotas.sourcelink.json

@@ -11,9 +11,9 @@ namespace TiendaDeMascotas.Animales
         {
             Tipo = tipo;
         }
-        public override void HacerSonido()
+        public override void Estado()
         {
-            Console.WriteLine($"{Nombre} está nadando.");
+            Console.WriteLine($"{Nombre} está nadando en la pesera, duh.");
         }
     }
 }

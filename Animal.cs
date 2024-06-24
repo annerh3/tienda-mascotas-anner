@@ -17,11 +17,7 @@ namespace TiendaDeMascotas
             NumeroTelefonoCuidador = numeroTelefonoCuidador;
         }
 
-        public abstract void HacerSonido();
-        //public void Comer()
-        //{
-        //    Console.WriteLine($"{Nombre} está comiendo.");
-        //}
+        public abstract void Estado();
 
         public string ObtenerNumeroTelefonoCuidador()
         {

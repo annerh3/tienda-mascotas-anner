@@ -5,12 +5,10 @@
     public void MostrarMenu()
         {
             int opcion;
-
             do
-            {
-                Console.Clear();
+            {   Console.Clear();
                 Console.WriteLine("*-*-*-*- Tienda De Mascotas -*-*-*-*");
-                Console.WriteLine("1. Agregar Mascota\n2. Listar Mascotas\n3. Ver Detalles de una Mascota\n4. Salir\nSeleccione una opción: ");
+                Console.WriteLine("1. Agregar Mascota\n2. Listar Mascotas\n3. Ver Detalles de una Mascota\n4. Salir de la tienda.\nSeleccione una opción: ");
                 
                 opcion = int.Parse(Console.ReadLine());
         
@@ -24,12 +22,11 @@
                         tienda.ListarMascotas();
                         break;
                     case 3:
-                        tienda.VerDetallesMascota();
+                        tienda.VerEstadoMascota();
                         break;
                     case 4:
                         Console.WriteLine("Gracias por usar la Tienda de Mascotas. Bye :)");
                         break;
-                    
                     default:
                         Console.WriteLine("Opción no válida.");
                         break;
@@ -37,7 +34,6 @@
 
                 Console.WriteLine("\n--------------------------\nPresione cualquier tecla para continuar...");
                 Console.ReadKey();
-
             } while (opcion != 4);
         }
     }

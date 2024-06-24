@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\animales\\conejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:animales\\conejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\animales\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:animales\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\animales\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:animales\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\animales\\pajaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:animales\\pajaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\animales\\hamster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:animales\\hamster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\tareas\\unidad i\\actividad foro\\tiendademascotas\\animales\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF68EE4-3464-480F-B920-876CEB032B23}|TiendaDeMascotas.csproj|solutionrelative:animales\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +50,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pez.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Pez.cs",
+              "RelativeDocumentMoniker": "Animales\\Pez.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Pez.cs",
+              "RelativeToolTip": "Animales\\Pez.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:52:40.35Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:32:10.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Perro.cs",
+              "RelativeDocumentMoniker": "Animales\\Perro.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Perro.cs",
+              "RelativeToolTip": "Animales\\Perro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:25:07.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pajaro.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Pajaro.cs",
+              "RelativeDocumentMoniker": "Animales\\Pajaro.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Pajaro.cs",
+              "RelativeToolTip": "Animales\\Pajaro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:24:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hamster.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Hamster.cs",
+              "RelativeDocumentMoniker": "Animales\\Hamster.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Hamster.cs",
+              "RelativeToolTip": "Animales\\Hamster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:23:59.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Gato.cs",
+              "RelativeDocumentMoniker": "Animales\\Gato.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Gato.cs",
+              "RelativeToolTip": "Animales\\Gato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:23:41.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conejo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Conejo.cs",
+              "RelativeDocumentMoniker": "Animales\\Conejo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animales\\Conejo.cs",
+              "RelativeToolTip": "Animales\\Conejo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:22:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:19:56.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Menu.cs",
               "RelativeToolTip": "Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABZAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T18:26:25.211Z",
               "EditorCaption": ""
@@ -45,7 +181,7 @@
               "RelativeDocumentMoniker": "Tienda.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\Tareas\\Unidad I\\Actividad Foro\\TiendaDeMascotas\\Tienda.cs",
               "RelativeToolTip": "Tienda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T18:27:29.811Z",
               "EditorCaption": ""

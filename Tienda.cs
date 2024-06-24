@@ -58,7 +58,7 @@ public class Tienda
                 break;
         }
 
-        Console.WriteLine("Mascota agregada exitosamente.");
+        Console.WriteLine("\nMascota agregada exitosamente!");
     }
 
     public void ListarMascotas()
@@ -73,13 +73,14 @@ public class Tienda
         }
     }
 
-    public void VerDetallesMascota()
+    public void VerEstadoMascota()
     {
         Console.WriteLine("\n*-*-*-*- Ver Detalles de una Mascota -*-*-*-*");
         Console.Write("\nNombre de la mascota a buscar: ");
         string nombre = Console.ReadLine();
-
+        if (nombre is "") { return; } // volver a menu princip.
         var animal = animales.Find(a => a.Nombre.ToLower() == nombre.ToLower());
+        
         Console.WriteLine("\n---------------\n");
         if (animal != null)
         {
@@ -87,7 +88,7 @@ public class Tienda
                                 Edad: {animal.Edad}
                                 Cuidador: {animal.Cuidador}
                                 Número de teléfono del cuidador: {animal.ObtenerNumeroTelefonoCuidador()}");
-            animal.HacerSonido(); // polimorfismo
+            animal.Estado(); // polimorfismo
         }
         else
         {
